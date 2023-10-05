@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arunbamoriya@gmail.com**
 
-- ⚡ Fun fact **My one of the best projects are not on github**
+- ⚡ Fun fact **My best projects are not on github**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
