@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://github.com/senisinsane/senisinsane/assets/53461347/7dd19889-6cb5-470b-b794-a3651f04eaac"
 >
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-kbp1.vercel.app/](https://3d-portfolio-kbp1.vercel.app/)
-
 - 💬 Ask me about **react, react native, flask, django, codeforces, dsa**
 
 - 📫 How to reach me **arunbamoriya@gmail.com**
